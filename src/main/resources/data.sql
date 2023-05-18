@@ -1,0 +1,1 @@
+INSERT INTO Students VALUES (1,"Catalin","buzgcata@yahoo.com","Informatica");
